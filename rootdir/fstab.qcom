@@ -11,4 +11,4 @@
 
 /devices/msm_sdcc.2/mmc_host*                     auto              auto  defaults  voldmanaged=sdcard1:auto
 /devices/msm_sdcc.3/mmc_host*                     auto              auto  defaults  voldmanaged=sdcard1:auto
-/devices/platform/xhci-hcd                       auto              auto  defaults  voldmanaged=usbdisk:auto
+/devices/platform/xhci-hcd*                       auto              auto  defaults  voldmanaged=usbdisk:auto
